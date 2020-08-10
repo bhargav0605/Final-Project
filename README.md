@@ -1,6 +1,6 @@
 # Implementation of NEAT on NES based Game
 
-**Author : Bhargav Parmar**
+**Author : Bhargav Parmar** </br>
 **Co-Author : Sudeep Kuchara**
 
 ## Introduction of NEAT:
