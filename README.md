@@ -15,4 +15,5 @@ Input and output nodes are not evolved in the node gene list. Hidden nodes can b
 
 ## Mutation:
 Mutation can either mutate existing connections or can add new structure to a network. If a new connection is added between a start and end node, it is randomly assigned a weight.If a new node is added, it is placed between two nodes that are already connected. The previous connection is disabled (though still present in the genome). The previous start node is linked to the new node with the weight of the old connection and the new node is linked to the previous end node with a weight of 1. This was found to help mitigate issues with new structural additions.
+
 ![alt text](http://miro.medium.com/max/558/0*hk8JqrWFbRiG04L2.jpg)
