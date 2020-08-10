@@ -32,6 +32,10 @@ when it comes time to crossover two individuals, this can be done with much less
 
 Read full article here: https://towardsdatascience.com/neat-an-awesome-approach-to-neuroevolution-3eca5cc7930f
 
+## Code Requirements
+
+**pip install requirements.txt**
+
 ## Outcome of Implimentation:
 For implementation purpose we decided to use NES based games(The Nintendo Entertainment System (NES) is an 8-bit third-generation home video game console produced, released, and marketed by Nintendo). The outcome of the implementation on game is below where agent fought with final boss and won.
 
