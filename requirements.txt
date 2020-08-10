@@ -1,6 +1,5 @@
 neat-python
 numpy 
 retro
-cv2
-neat
+Opencv-python
 pickle
