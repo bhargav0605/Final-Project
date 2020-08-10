@@ -32,5 +32,5 @@ Read full article here: https://towardsdatascience.com/neat-an-awesome-approach-
 ## Outcome of Implimentation:
 For implementation purpose we decided to use NES based games(The Nintendo Entertainment System (NES) is an 8-bit third-generation home video game console produced, released, and marketed by Nintendo). The outcome of the implementation on game is below:
 
-![alt text](https://github.com/bhargav0605/Final-Project/issues/1#issuecomment-671173982)
+![alt text](https://github.com/bhargav0605/Final-Project/issues/2#issue-675884427)
 
