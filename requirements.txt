@@ -1,0 +1,6 @@
+neat-python
+numpy 
+retro
+cv2
+neat
+pickle
